@@ -1,0 +1,12 @@
+/Users/buraksag/Projects/CustomerManagement/src/Core/CustomerManagement.Domain/bin/Debug/net7.0/CustomerManagement.Domain.deps.json
+/Users/buraksag/Projects/CustomerManagement/src/Core/CustomerManagement.Domain/bin/Debug/net7.0/CustomerManagement.Domain.dll
+/Users/buraksag/Projects/CustomerManagement/src/Core/CustomerManagement.Domain/bin/Debug/net7.0/CustomerManagement.Domain.pdb
+/Users/buraksag/Projects/CustomerManagement/src/Core/CustomerManagement.Domain/obj/Debug/net7.0/CustomerManagement.Domain.csproj.AssemblyReference.cache
+/Users/buraksag/Projects/CustomerManagement/src/Core/CustomerManagement.Domain/obj/Debug/net7.0/CustomerManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/buraksag/Projects/CustomerManagement/src/Core/CustomerManagement.Domain/obj/Debug/net7.0/CustomerManagement.Domain.AssemblyInfoInputs.cache
+/Users/buraksag/Projects/CustomerManagement/src/Core/CustomerManagement.Domain/obj/Debug/net7.0/CustomerManagement.Domain.AssemblyInfo.cs
+/Users/buraksag/Projects/CustomerManagement/src/Core/CustomerManagement.Domain/obj/Debug/net7.0/CustomerManagement.Domain.csproj.CoreCompileInputs.cache
+/Users/buraksag/Projects/CustomerManagement/src/Core/CustomerManagement.Domain/obj/Debug/net7.0/CustomerManagement.Domain.dll
+/Users/buraksag/Projects/CustomerManagement/src/Core/CustomerManagement.Domain/obj/Debug/net7.0/refint/CustomerManagement.Domain.dll
+/Users/buraksag/Projects/CustomerManagement/src/Core/CustomerManagement.Domain/obj/Debug/net7.0/CustomerManagement.Domain.pdb
+/Users/buraksag/Projects/CustomerManagement/src/Core/CustomerManagement.Domain/obj/Debug/net7.0/ref/CustomerManagement.Domain.dll

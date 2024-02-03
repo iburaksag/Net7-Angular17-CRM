@@ -1,0 +1,72 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CustomerManagement.Domain\CustomerManagement.Domain.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="11.9.0" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.9.0" />
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.1.0" />
+    <PackageReference Include="Serilog" Version="3.1.1" />
+    <PackageReference Include="Serilog.Sinks.File" Version="5.0.0" />
+    <PackageReference Include="Serilog.Sinks.Console" Version="5.0.1" />
+    <PackageReference Include="Serilog.AspNetCore" Version="7.0.0" />
+    <PackageReference Include="Serilog.Extensions.Logging" Version="7.0.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Dto\" />
+    <None Remove="Mapping\" />
+    <None Remove="Users\" />
+    <None Remove="Customers\" />
+    <None Remove="Orders\" />
+    <None Remove="Users\Commands\" />
+    <None Remove="Users\Queries\" />
+    <None Remove="Orders\Commands\" />
+    <None Remove="Orders\Queries\" />
+    <None Remove="Customers\Commands\" />
+    <None Remove="Customers\Queries\" />
+    <None Remove="Users\Commands\Login\" />
+    <None Remove="Abstractions\" />
+    <None Remove="Users\Commands\Register\" />
+    <None Remove="Customers\Queries\GetAllCustomers\" />
+    <None Remove="Customers\Commands\CreateCustomer\" />
+    <None Remove="Customers\Commands\UpdateCustomer\" />
+    <None Remove="Customers\Commands\DeleteCustomer\" />
+    <None Remove="Orders\Queries\GetOrdersByCustomerid\" />
+    <None Remove="Orders\Queries\GetAllOrders\" />
+    <None Remove="Users\Queries\GetUserById\" />
+    <None Remove="Customers\Queries\GetCustomerById\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Dto\" />
+    <Folder Include="Mapping\" />
+    <Folder Include="Users\" />
+    <Folder Include="Customers\" />
+    <Folder Include="Orders\" />
+    <Folder Include="Users\Commands\" />
+    <Folder Include="Users\Queries\" />
+    <Folder Include="Orders\Commands\" />
+    <Folder Include="Orders\Queries\" />
+    <Folder Include="Customers\Commands\" />
+    <Folder Include="Customers\Queries\" />
+    <Folder Include="Users\Commands\Login\" />
+    <Folder Include="Abstractions\" />
+    <Folder Include="Users\Commands\Register\" />
+    <Folder Include="Customers\Queries\GetAllCustomers\" />
+    <Folder Include="Customers\Commands\CreateCustomer\" />
+    <Folder Include="Customers\Commands\UpdateCustomer\" />
+    <Folder Include="Customers\Commands\DeleteCustomer\" />
+    <Folder Include="Orders\Queries\GetOrdersByCustomerid\" />
+    <Folder Include="Orders\Queries\GetAllOrders\" />
+    <Folder Include="Users\Queries\GetUserById\" />
+    <Folder Include="Customers\Queries\GetCustomerById\" />
+  </ItemGroup>
+</Project>

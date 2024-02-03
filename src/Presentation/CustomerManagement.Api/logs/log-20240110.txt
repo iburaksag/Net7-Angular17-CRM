@@ -1,0 +1,369 @@
+2024-01-10 22:52:53.039 +03:00 [INF] User profile is available. Using '/Users/buraksag/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2024-01-10 22:52:53.829 +03:00 [INF] Now listening on: https://localhost:7119
+2024-01-10 22:52:53.830 +03:00 [INF] Now listening on: http://localhost:5196
+2024-01-10 22:52:53.833 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-10 22:52:53.834 +03:00 [INF] Hosting environment: Development
+2024-01-10 22:52:53.834 +03:00 [INF] Content root path: /Users/buraksag/Projects/CustomerManagement/src/Presentation/CustomerManagement.Api
+2024-01-10 22:52:56.069 +03:00 [INF] Request starting HTTP/1.1 GET https://localhost:7119/swagger - -
+2024-01-10 22:52:56.131 +03:00 [INF] Request finished HTTP/1.1 GET https://localhost:7119/swagger - - - 301 0 - 64.7279ms
+2024-01-10 22:52:56.144 +03:00 [INF] Request starting HTTP/1.1 GET https://localhost:7119/swagger/index.html - -
+2024-01-10 22:52:56.283 +03:00 [INF] Request finished HTTP/1.1 GET https://localhost:7119/swagger/index.html - - - 200 - text/html;charset=utf-8 138.2523ms
+2024-01-10 22:52:56.365 +03:00 [INF] Request starting HTTP/1.1 GET https://localhost:7119/swagger/swagger-ui.css - -
+2024-01-10 22:52:56.434 +03:00 [INF] Request starting HTTP/1.1 GET https://localhost:7119/swagger/swagger-ui-bundle.js - -
+2024-01-10 22:52:56.438 +03:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2024-01-10 22:52:56.438 +03:00 [INF] Request finished HTTP/1.1 GET https://localhost:7119/swagger/swagger-ui.css - - - 200 144929 text/css 73.1622ms
+2024-01-10 22:52:56.474 +03:00 [INF] Request starting HTTP/1.1 GET https://localhost:7119/swagger/swagger-ui-standalone-preset.js - -
+2024-01-10 22:52:56.553 +03:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2024-01-10 22:52:56.555 +03:00 [INF] Request finished HTTP/1.1 GET https://localhost:7119/swagger/swagger-ui-standalone-preset.js - - - 200 312163 text/javascript 81.7215ms
+2024-01-10 22:52:56.558 +03:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2024-01-10 22:52:56.558 +03:00 [INF] Request finished HTTP/1.1 GET https://localhost:7119/swagger/swagger-ui-bundle.js - - - 200 1061536 text/javascript 124.3902ms
+2024-01-10 22:52:56.801 +03:00 [INF] Request starting HTTP/1.1 GET https://localhost:7119/swagger/v1/swagger.json - -
+2024-01-10 22:52:56.821 +03:00 [INF] Request finished HTTP/1.1 GET https://localhost:7119/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 20.6814ms
+2024-01-10 22:52:56.995 +03:00 [INF] Request starting HTTP/1.1 GET https://localhost:7119/apple-touch-icon-precomposed.png - -
+2024-01-10 22:52:57.120 +03:00 [INF] HTTP GET /apple-touch-icon-precomposed.png responded 404 in 119.1101 ms
+2024-01-10 22:52:57.124 +03:00 [INF] Request finished HTTP/1.1 GET https://localhost:7119/apple-touch-icon-precomposed.png - - - 404 0 - 128.9739ms
+2024-01-10 22:52:57.129 +03:00 [INF] Request starting HTTP/1.1 GET https://localhost:7119/apple-touch-icon.png - -
+2024-01-10 22:52:57.131 +03:00 [INF] HTTP GET /apple-touch-icon.png responded 404 in 1.4049 ms
+2024-01-10 22:52:57.131 +03:00 [INF] Request finished HTTP/1.1 GET https://localhost:7119/apple-touch-icon.png - - - 404 0 - 2.2235ms
+2024-01-10 22:52:57.189 +03:00 [INF] Request starting HTTP/1.1 GET https://localhost:7119/swagger/favicon-32x32.png - -
+2024-01-10 22:52:57.189 +03:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2024-01-10 22:52:57.189 +03:00 [INF] Request finished HTTP/1.1 GET https://localhost:7119/swagger/favicon-32x32.png - - - 200 628 image/png 0.5853ms
+2024-01-10 22:52:57.190 +03:00 [INF] Request starting HTTP/1.1 GET https://localhost:7119/swagger/favicon-16x16.png - -
+2024-01-10 22:52:57.191 +03:00 [INF] Sending file. Request path: '/favicon-16x16.png'. Physical path: 'N/A'
+2024-01-10 22:52:57.191 +03:00 [INF] Request finished HTTP/1.1 GET https://localhost:7119/swagger/favicon-16x16.png - - - 200 665 image/png 0.3971ms
+2024-01-10 22:54:57.148 +03:00 [INF] User profile is available. Using '/Users/buraksag/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2024-01-10 22:54:57.956 +03:00 [INF] Now listening on: https://localhost:7119
+2024-01-10 22:54:57.957 +03:00 [INF] Now listening on: http://localhost:5196
+2024-01-10 22:54:57.966 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-10 22:54:57.974 +03:00 [INF] Hosting environment: Development
+2024-01-10 22:54:57.974 +03:00 [INF] Content root path: /Users/buraksag/Projects/CustomerManagement/src/Presentation/CustomerManagement.Api
+2024-01-10 22:54:59.685 +03:00 [INF] Request starting HTTP/1.1 GET https://localhost:7119/swagger/index.html - -
+2024-01-10 22:54:59.922 +03:00 [INF] Request finished HTTP/1.1 GET https://localhost:7119/swagger/index.html - - - 200 - text/html;charset=utf-8 239.3385ms
+2024-01-10 22:55:00.067 +03:00 [INF] Request starting HTTP/1.1 GET https://localhost:7119/swagger/v1/swagger.json - -
+2024-01-10 22:55:00.185 +03:00 [INF] Request finished HTTP/1.1 GET https://localhost:7119/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 118.7971ms
+2024-01-10 22:55:12.350 +03:00 [INF] Request starting HTTP/1.1 GET https://localhost:7119/api/v1/user application/json 66
+2024-01-10 22:55:12.456 +03:00 [INF] Executing endpoint 'CustomerManagement.Api.Controllers.UsersController.LoginUser (CustomerManagement.Api)'
+2024-01-10 22:55:12.487 +03:00 [INF] Route matched with {action = "LoginUser", controller = "Users"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] LoginUser(CustomerManagement.Application.Users.Commands.Login.LoginCommand, System.Threading.CancellationToken) on controller CustomerManagement.Api.Controllers.UsersController (CustomerManagement.Api).
+2024-01-10 22:56:08.914 +03:00 [ERR] An error occurred using the connection to database '' on server ''.
+2024-01-10 22:56:08.938 +03:00 [ERR] An exception occurred while iterating over the results of a query for context type 'CustomerManagement.Persistance.Context.ApplicationDbContext'.
+System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at Npgsql.NpgsqlConnection.Open(Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.OpenAsync(CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenDbConnectionAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at Npgsql.NpgsqlConnection.Open(Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.OpenAsync(CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenDbConnectionAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+2024-01-10 22:56:31.504 +03:00 [ERR] An unexpected error occurred during login.
+System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at Npgsql.NpgsqlConnection.Open(Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.OpenAsync(CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenDbConnectionAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at CustomerManagement.Persistance.Repositories.UserRepository.GetByEmailAsync(String email) in /Users/buraksag/Projects/CustomerManagement/src/Infrastructure/CustomerManagement.Persistance/Repositories/UserRepository.cs:line 17
+   at CustomerManagement.Application.Users.Commands.Login.LoginCommandHandler.Handle(LoginCommand request, CancellationToken cancellationToken) in /Users/buraksag/Projects/CustomerManagement/src/Core/CustomerManagement.Application/Users/Commands/Login/LoginCommandHandler.cs:line 33
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at CustomerManagement.Api.Controllers.UsersController.LoginUser(LoginCommand request, CancellationToken cancellationToken) in /Users/buraksag/Projects/CustomerManagement/src/Presentation/CustomerManagement.Api/Controllers/UsersController.cs:line 26
+2024-01-10 22:56:33.671 +03:00 [INF] Executing ObjectResult, writing value of type '<>f__AnonymousType1`1[[System.String, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-01-10 22:56:33.695 +03:00 [INF] Executed action CustomerManagement.Api.Controllers.UsersController.LoginUser (CustomerManagement.Api) in 81207.6301ms
+2024-01-10 22:56:33.698 +03:00 [INF] Executed endpoint 'CustomerManagement.Api.Controllers.UsersController.LoginUser (CustomerManagement.Api)'
+2024-01-10 22:56:33.701 +03:00 [ERR] HTTP GET /api/v1/user responded 500 in 81348.5008 ms
+2024-01-10 22:56:33.716 +03:00 [INF] Request finished HTTP/1.1 GET https://localhost:7119/api/v1/user application/json 66 - 500 - application/json;+charset=utf-8 81370.1536ms
+2024-01-10 22:57:07.217 +03:00 [INF] Request starting HTTP/1.1 GET https://localhost:7119/api/v1/user application/json 66
+2024-01-10 22:57:07.224 +03:00 [INF] Executing endpoint 'CustomerManagement.Api.Controllers.UsersController.LoginUser (CustomerManagement.Api)'
+2024-01-10 22:57:07.225 +03:00 [INF] Route matched with {action = "LoginUser", controller = "Users"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] LoginUser(CustomerManagement.Application.Users.Commands.Login.LoginCommand, System.Threading.CancellationToken) on controller CustomerManagement.Api.Controllers.UsersController (CustomerManagement.Api).
+2024-01-10 22:57:08.845 +03:00 [ERR] An error occurred using the connection to database '' on server ''.
+2024-01-10 22:57:08.847 +03:00 [ERR] An exception occurred while iterating over the results of a query for context type 'CustomerManagement.Persistance.Context.ApplicationDbContext'.
+System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at Npgsql.NpgsqlConnection.Open(Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.OpenAsync(CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenDbConnectionAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at Npgsql.NpgsqlConnection.Open(Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.OpenAsync(CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenDbConnectionAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+2024-01-10 22:57:08.958 +03:00 [ERR] An unexpected error occurred during login.
+System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at Npgsql.NpgsqlConnection.Open(Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.OpenAsync(CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenDbConnectionAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at CustomerManagement.Persistance.Repositories.UserRepository.GetByEmailAsync(String email) in /Users/buraksag/Projects/CustomerManagement/src/Infrastructure/CustomerManagement.Persistance/Repositories/UserRepository.cs:line 17
+   at CustomerManagement.Application.Users.Commands.Login.LoginCommandHandler.Handle(LoginCommand request, CancellationToken cancellationToken) in /Users/buraksag/Projects/CustomerManagement/src/Core/CustomerManagement.Application/Users/Commands/Login/LoginCommandHandler.cs:line 33
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at CustomerManagement.Api.Controllers.UsersController.LoginUser(LoginCommand request, CancellationToken cancellationToken) in /Users/buraksag/Projects/CustomerManagement/src/Presentation/CustomerManagement.Api/Controllers/UsersController.cs:line 26
+2024-01-10 22:57:08.961 +03:00 [INF] Executing ObjectResult, writing value of type '<>f__AnonymousType1`1[[System.String, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-01-10 22:57:08.962 +03:00 [INF] Executed action CustomerManagement.Api.Controllers.UsersController.LoginUser (CustomerManagement.Api) in 1736.289ms
+2024-01-10 22:57:08.962 +03:00 [INF] Executed endpoint 'CustomerManagement.Api.Controllers.UsersController.LoginUser (CustomerManagement.Api)'
+2024-01-10 22:57:08.962 +03:00 [ERR] HTTP GET /api/v1/user responded 500 in 1741.2055 ms
+2024-01-10 22:57:08.963 +03:00 [INF] Request finished HTTP/1.1 GET https://localhost:7119/api/v1/user application/json 66 - 500 - application/json;+charset=utf-8 1746.1772ms
+2024-01-10 22:58:21.648 +03:00 [INF] User profile is available. Using '/Users/buraksag/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2024-01-10 22:58:22.420 +03:00 [INF] Now listening on: https://localhost:7119
+2024-01-10 22:58:22.420 +03:00 [INF] Now listening on: http://localhost:5196
+2024-01-10 22:58:22.428 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-10 22:58:22.428 +03:00 [INF] Hosting environment: Development
+2024-01-10 22:58:22.433 +03:00 [INF] Content root path: /Users/buraksag/Projects/CustomerManagement/src/Presentation/CustomerManagement.Api
+2024-01-10 22:58:24.089 +03:00 [INF] Request starting HTTP/1.1 GET https://localhost:7119/swagger/index.html - -
+2024-01-10 22:58:24.401 +03:00 [INF] Request finished HTTP/1.1 GET https://localhost:7119/swagger/index.html - - - 200 - text/html;charset=utf-8 317.9329ms
+2024-01-10 22:58:24.627 +03:00 [INF] Request starting HTTP/1.1 GET https://localhost:7119/swagger/v1/swagger.json - -
+2024-01-10 22:58:24.736 +03:00 [INF] Request finished HTTP/1.1 GET https://localhost:7119/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 108.6588ms
+2024-01-10 22:58:38.269 +03:00 [INF] Request starting HTTP/1.1 GET https://localhost:7119/api/v1/user application/json 66
+2024-01-10 22:58:38.378 +03:00 [INF] Executing endpoint 'CustomerManagement.Api.Controllers.UsersController.LoginUser (CustomerManagement.Api)'
+2024-01-10 22:58:38.409 +03:00 [INF] Route matched with {action = "LoginUser", controller = "Users"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] LoginUser(CustomerManagement.Application.Users.Commands.Login.LoginCommand, System.Threading.CancellationToken) on controller CustomerManagement.Api.Controllers.UsersController (CustomerManagement.Api).
+2024-01-10 22:58:57.953 +03:00 [ERR] An error occurred using the connection to database '' on server ''.
+2024-01-10 22:58:57.978 +03:00 [ERR] An exception occurred while iterating over the results of a query for context type 'CustomerManagement.Persistance.Context.ApplicationDbContext'.
+System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at Npgsql.NpgsqlConnection.Open(Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.OpenAsync(CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenDbConnectionAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at Npgsql.NpgsqlConnection.Open(Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.OpenAsync(CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenDbConnectionAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+2024-01-10 22:59:07.058 +03:00 [ERR] An unexpected error occurred during login.
+System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at Npgsql.NpgsqlConnection.Open(Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.OpenAsync(CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenDbConnectionAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at CustomerManagement.Persistance.Repositories.UserRepository.GetByEmailAsync(String email) in /Users/buraksag/Projects/CustomerManagement/src/Infrastructure/CustomerManagement.Persistance/Repositories/UserRepository.cs:line 17
+   at CustomerManagement.Application.Users.Commands.Login.LoginCommandHandler.Handle(LoginCommand request, CancellationToken cancellationToken) in /Users/buraksag/Projects/CustomerManagement/src/Core/CustomerManagement.Application/Users/Commands/Login/LoginCommandHandler.cs:line 33
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at CustomerManagement.Api.Controllers.UsersController.LoginUser(LoginCommand request, CancellationToken cancellationToken) in /Users/buraksag/Projects/CustomerManagement/src/Presentation/CustomerManagement.Api/Controllers/UsersController.cs:line 26
+2024-01-10 22:59:07.844 +03:00 [INF] Executing ObjectResult, writing value of type '<>f__AnonymousType1`1[[System.String, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-01-10 22:59:07.886 +03:00 [INF] Executed action CustomerManagement.Api.Controllers.UsersController.LoginUser (CustomerManagement.Api) in 29475.3091ms
+2024-01-10 22:59:07.888 +03:00 [INF] Executed endpoint 'CustomerManagement.Api.Controllers.UsersController.LoginUser (CustomerManagement.Api)'
+2024-01-10 22:59:07.890 +03:00 [ERR] HTTP GET /api/v1/user responded 500 in 29614.3263 ms
+2024-01-10 22:59:07.900 +03:00 [INF] Request finished HTTP/1.1 GET https://localhost:7119/api/v1/user application/json 66 - 500 - application/json;+charset=utf-8 29632.4688ms
+2024-01-10 23:03:16.042 +03:00 [INF] User profile is available. Using '/Users/buraksag/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2024-01-10 23:03:16.906 +03:00 [INF] Now listening on: https://localhost:7119
+2024-01-10 23:03:16.907 +03:00 [INF] Now listening on: http://localhost:5196
+2024-01-10 23:03:16.910 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-10 23:03:16.910 +03:00 [INF] Hosting environment: Development
+2024-01-10 23:03:16.911 +03:00 [INF] Content root path: /Users/buraksag/Projects/CustomerManagement/src/Presentation/CustomerManagement.Api
+2024-01-10 23:03:18.268 +03:00 [INF] Request starting HTTP/1.1 GET https://localhost:7119/swagger/index.html - -
+2024-01-10 23:03:18.490 +03:00 [INF] Request finished HTTP/1.1 GET https://localhost:7119/swagger/index.html - - - 200 - text/html;charset=utf-8 225.8238ms
+2024-01-10 23:03:18.627 +03:00 [INF] Request starting HTTP/1.1 GET https://localhost:7119/swagger/v1/swagger.json - -
+2024-01-10 23:03:18.815 +03:00 [INF] Request finished HTTP/1.1 GET https://localhost:7119/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 188.4772ms
+2024-01-10 23:03:32.294 +03:00 [INF] Request starting HTTP/1.1 GET https://localhost:7119/api/v1/user application/json 66
+2024-01-10 23:03:32.398 +03:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2024-01-10 23:03:32.398 +03:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2024-01-10 23:03:32.400 +03:00 [INF] HTTP GET /api/v1/user responded 405 in 99.8746 ms
+2024-01-10 23:03:32.402 +03:00 [INF] Request finished HTTP/1.1 GET https://localhost:7119/api/v1/user application/json 66 - 405 0 - 108.3804ms
+2024-01-10 23:03:54.805 +03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7119/api/v1/user application/json 66
+2024-01-10 23:03:54.811 +03:00 [INF] Executing endpoint 'CustomerManagement.Api.Controllers.UsersController.LoginUser (CustomerManagement.Api)'
+2024-01-10 23:03:54.849 +03:00 [INF] Route matched with {action = "LoginUser", controller = "Users"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] LoginUser(CustomerManagement.Application.Users.Commands.Login.LoginCommand, System.Threading.CancellationToken) on controller CustomerManagement.Api.Controllers.UsersController (CustomerManagement.Api).
+2024-01-10 23:04:07.880 +03:00 [ERR] An error occurred using the connection to database '' on server ''.
+2024-01-10 23:04:07.906 +03:00 [ERR] An exception occurred while iterating over the results of a query for context type 'CustomerManagement.Persistance.Context.ApplicationDbContext'.
+System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at Npgsql.NpgsqlConnection.Open(Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.OpenAsync(CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenDbConnectionAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at Npgsql.NpgsqlConnection.Open(Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.OpenAsync(CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenDbConnectionAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+2024-01-10 23:04:17.088 +03:00 [ERR] An unexpected error occurred during login.
+System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at Npgsql.NpgsqlConnection.Open(Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.OpenAsync(CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenDbConnectionAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at CustomerManagement.Persistance.Repositories.UserRepository.GetByEmailAsync(String email) in /Users/buraksag/Projects/CustomerManagement/src/Infrastructure/CustomerManagement.Persistance/Repositories/UserRepository.cs:line 17
+   at CustomerManagement.Application.Users.Commands.Login.LoginCommandHandler.Handle(LoginCommand request, CancellationToken cancellationToken) in /Users/buraksag/Projects/CustomerManagement/src/Core/CustomerManagement.Application/Users/Commands/Login/LoginCommandHandler.cs:line 33
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at CustomerManagement.Api.Controllers.UsersController.LoginUser(LoginCommand request, CancellationToken cancellationToken) in /Users/buraksag/Projects/CustomerManagement/src/Presentation/CustomerManagement.Api/Controllers/UsersController.cs:line 26
+2024-01-10 23:04:18.500 +03:00 [INF] Executing ObjectResult, writing value of type '<>f__AnonymousType1`1[[System.String, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-01-10 23:04:18.546 +03:00 [INF] Executed action CustomerManagement.Api.Controllers.UsersController.LoginUser (CustomerManagement.Api) in 23695.3463ms
+2024-01-10 23:04:18.547 +03:00 [INF] Executed endpoint 'CustomerManagement.Api.Controllers.UsersController.LoginUser (CustomerManagement.Api)'
+2024-01-10 23:04:18.547 +03:00 [ERR] HTTP POST /api/v1/user responded 500 in 23742.0283 ms
+2024-01-10 23:04:18.557 +03:00 [INF] Request finished HTTP/1.1 POST https://localhost:7119/api/v1/user application/json 66 - 500 - application/json;+charset=utf-8 23753.8264ms
+2024-01-10 23:04:51.576 +03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7119/api/v1/user application/json 66
+2024-01-10 23:04:51.580 +03:00 [INF] CORS policy execution successful.
+2024-01-10 23:04:51.583 +03:00 [INF] Executing endpoint 'CustomerManagement.Api.Controllers.UsersController.LoginUser (CustomerManagement.Api)'
+2024-01-10 23:04:51.584 +03:00 [INF] Route matched with {action = "LoginUser", controller = "Users"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] LoginUser(CustomerManagement.Application.Users.Commands.Login.LoginCommand, System.Threading.CancellationToken) on controller CustomerManagement.Api.Controllers.UsersController (CustomerManagement.Api).
+2024-01-10 23:05:17.413 +03:00 [ERR] An error occurred using the connection to database '' on server ''.
+2024-01-10 23:05:17.416 +03:00 [ERR] An exception occurred while iterating over the results of a query for context type 'CustomerManagement.Persistance.Context.ApplicationDbContext'.
+System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at Npgsql.NpgsqlConnection.Open(Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.OpenAsync(CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenDbConnectionAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at Npgsql.NpgsqlConnection.Open(Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.OpenAsync(CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenDbConnectionAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+2024-01-10 23:05:23.510 +03:00 [ERR] An unexpected error occurred during login.
+System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at Npgsql.NpgsqlConnection.Open(Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.OpenAsync(CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenDbConnectionAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync[TSource](IAsyncEnumerable`1 asyncEnumerable, CancellationToken cancellationToken)
+   at CustomerManagement.Persistance.Repositories.UserRepository.GetByEmailAsync(String email) in /Users/buraksag/Projects/CustomerManagement/src/Infrastructure/CustomerManagement.Persistance/Repositories/UserRepository.cs:line 17
+   at CustomerManagement.Application.Users.Commands.Login.LoginCommandHandler.Handle(LoginCommand request, CancellationToken cancellationToken) in /Users/buraksag/Projects/CustomerManagement/src/Core/CustomerManagement.Application/Users/Commands/Login/LoginCommandHandler.cs:line 33
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken cancellationToken)
+   at CustomerManagement.Api.Controllers.UsersController.LoginUser(LoginCommand request, CancellationToken cancellationToken) in /Users/buraksag/Projects/CustomerManagement/src/Presentation/CustomerManagement.Api/Controllers/UsersController.cs:line 26
+2024-01-10 23:05:23.516 +03:00 [INF] Executing ObjectResult, writing value of type '<>f__AnonymousType1`1[[System.String, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-01-10 23:05:23.521 +03:00 [INF] Executed action CustomerManagement.Api.Controllers.UsersController.LoginUser (CustomerManagement.Api) in 31938.1111ms
+2024-01-10 23:05:23.521 +03:00 [INF] Executed endpoint 'CustomerManagement.Api.Controllers.UsersController.LoginUser (CustomerManagement.Api)'
+2024-01-10 23:05:23.521 +03:00 [ERR] HTTP POST /api/v1/user responded 500 in 31941.6532 ms
+2024-01-10 23:05:23.523 +03:00 [INF] Request finished HTTP/1.1 POST https://localhost:7119/api/v1/user application/json 66 - 500 - application/json;+charset=utf-8 31948.8420ms
+2024-01-10 23:07:20.037 +03:00 [INF] User profile is available. Using '/Users/buraksag/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2024-01-10 23:07:20.836 +03:00 [INF] Now listening on: https://localhost:7119
+2024-01-10 23:07:20.837 +03:00 [INF] Now listening on: http://localhost:5196
+2024-01-10 23:07:20.841 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-10 23:07:20.841 +03:00 [INF] Hosting environment: Development
+2024-01-10 23:07:20.841 +03:00 [INF] Content root path: /Users/buraksag/Projects/CustomerManagement/src/Presentation/CustomerManagement.Api
+2024-01-10 23:07:22.429 +03:00 [INF] Request starting HTTP/1.1 GET https://localhost:7119/swagger/index.html - -
+2024-01-10 23:07:22.670 +03:00 [INF] Request finished HTTP/1.1 GET https://localhost:7119/swagger/index.html - - - 200 - text/html;charset=utf-8 245.7985ms
+2024-01-10 23:07:22.908 +03:00 [INF] Request starting HTTP/1.1 GET https://localhost:7119/swagger/v1/swagger.json - -
+2024-01-10 23:07:23.020 +03:00 [INF] Request finished HTTP/1.1 GET https://localhost:7119/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 111.8794ms
+2024-01-10 23:07:30.962 +03:00 [INF] Request starting HTTP/1.1 POST https://localhost:7119/api/v1/user application/json 66
+2024-01-10 23:07:30.968 +03:00 [INF] CORS policy execution successful.
+2024-01-10 23:07:31.070 +03:00 [INF] Executing endpoint 'CustomerManagement.Api.Controllers.UsersController.LoginUser (CustomerManagement.Api)'
+2024-01-10 23:07:31.107 +03:00 [INF] Route matched with {action = "LoginUser", controller = "Users"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] LoginUser(CustomerManagement.Application.Users.Commands.Login.LoginCommand, System.Threading.CancellationToken) on controller CustomerManagement.Api.Controllers.UsersController (CustomerManagement.Api).
+2024-01-10 23:07:43.421 +03:00 [INF] Executed DbCommand (36ms) [Parameters=[@__email_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT u."Id", u."CreatedDate", u."Email", u."FirstName", u."LastName", u."PasswordHash", u."PasswordSalt", u."UpdatedDate", u."Username"
+FROM "Users" AS u
+WHERE u."Email" = @__email_0
+LIMIT 2
+2024-01-10 23:07:53.730 +03:00 [ERR] Login failed for user iburaksag@gmail.com
+2024-01-10 23:07:56.682 +03:00 [INF] Executing UnauthorizedObjectResult, writing value of type '<>f__AnonymousType0`2[[System.String, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Collections.Generic.List`1[[System.String, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-01-10 23:07:56.742 +03:00 [INF] Executed action CustomerManagement.Api.Controllers.UsersController.LoginUser (CustomerManagement.Api) in 25631.5968ms
+2024-01-10 23:07:56.743 +03:00 [INF] Executed endpoint 'CustomerManagement.Api.Controllers.UsersController.LoginUser (CustomerManagement.Api)'
+2024-01-10 23:07:56.747 +03:00 [INF] HTTP POST /api/v1/user responded 401 in 25774.5412 ms
+2024-01-10 23:07:56.757 +03:00 [INF] Request finished HTTP/1.1 POST https://localhost:7119/api/v1/user application/json 66 - 401 - application/json;+charset=utf-8 25794.6939ms

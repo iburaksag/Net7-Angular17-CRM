@@ -1,0 +1,6 @@
+{
+  "CustomerManagement.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/buraksag\/Projects\/CustomerManagement\/src\/Presentation\/CustomerManagement.Api",
+  "CustomerManagement.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/buraksag\/Projects\/CustomerManagement\/src\/Core\/CustomerManagement.Application",
+  "CustomerManagement.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/buraksag\/Projects\/CustomerManagement\/src\/Core\/CustomerManagement.Domain",
+  "CustomerManagement.Persistance, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/buraksag\/Projects\/CustomerManagement\/src\/Infrastructure\/CustomerManagement.Persistance"
+}

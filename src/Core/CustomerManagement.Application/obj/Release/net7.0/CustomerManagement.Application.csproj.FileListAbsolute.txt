@@ -1,0 +1,15 @@
+/Users/buraksag/Projects/CustomerManagement/src/Core/CustomerManagement.Application/bin/Release/net7.0/CustomerManagement.Application.deps.json
+/Users/buraksag/Projects/CustomerManagement/src/Core/CustomerManagement.Application/bin/Release/net7.0/CustomerManagement.Application.dll
+/Users/buraksag/Projects/CustomerManagement/src/Core/CustomerManagement.Application/bin/Release/net7.0/CustomerManagement.Application.pdb
+/Users/buraksag/Projects/CustomerManagement/src/Core/CustomerManagement.Application/bin/Release/net7.0/CustomerManagement.Domain.dll
+/Users/buraksag/Projects/CustomerManagement/src/Core/CustomerManagement.Application/bin/Release/net7.0/CustomerManagement.Domain.pdb
+/Users/buraksag/Projects/CustomerManagement/src/Core/CustomerManagement.Application/obj/Release/net7.0/CustomerManagement.Application.csproj.AssemblyReference.cache
+/Users/buraksag/Projects/CustomerManagement/src/Core/CustomerManagement.Application/obj/Release/net7.0/CustomerManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/buraksag/Projects/CustomerManagement/src/Core/CustomerManagement.Application/obj/Release/net7.0/CustomerManagement.Application.AssemblyInfoInputs.cache
+/Users/buraksag/Projects/CustomerManagement/src/Core/CustomerManagement.Application/obj/Release/net7.0/CustomerManagement.Application.AssemblyInfo.cs
+/Users/buraksag/Projects/CustomerManagement/src/Core/CustomerManagement.Application/obj/Release/net7.0/CustomerManagement.Application.csproj.CoreCompileInputs.cache
+/Users/buraksag/Projects/CustomerManagement/src/Core/CustomerManagement.Application/obj/Release/net7.0/CustomerManagement.Application.csproj.CopyComplete
+/Users/buraksag/Projects/CustomerManagement/src/Core/CustomerManagement.Application/obj/Release/net7.0/CustomerManagement.Application.dll
+/Users/buraksag/Projects/CustomerManagement/src/Core/CustomerManagement.Application/obj/Release/net7.0/refint/CustomerManagement.Application.dll
+/Users/buraksag/Projects/CustomerManagement/src/Core/CustomerManagement.Application/obj/Release/net7.0/CustomerManagement.Application.pdb
+/Users/buraksag/Projects/CustomerManagement/src/Core/CustomerManagement.Application/obj/Release/net7.0/ref/CustomerManagement.Application.dll

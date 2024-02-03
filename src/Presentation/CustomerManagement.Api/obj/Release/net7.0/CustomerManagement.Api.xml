@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CustomerManagement.Api</name>
+    </assembly>
+    <members>
+        <member name="M:CustomerManagement.Api.Controllers.CustomersController.GetAllCustomers">
+            <summary>
+            Getting a list of customers
+            </summary>
+            <param name="request"></param>
+            <param name="cancellationToken"></param>
+            <returns>Returns response object which has list of customers</returns>
+            <response code="200">Returns response object which has data of customer list</response>
+            <response code="404">If customer list returns null</response>  
+        </member>
+        <member name="M:CustomerManagement.Api.Controllers.CustomersController.GetCustomerByIdQuery(System.Guid)">
+            <summary>
+            Get customer model by sending customer id
+            </summary>
+            <param name="request"></param>
+            <param name="cancellationToken"></param>
+            <returns>Returns response object which has customer data</returns>
+            <response code="200">Returns response object which has customer data successfully</response>
+            <response code="404">If customer is not found</response>    
+        </member>
+        <member name="M:CustomerManagement.Api.Controllers.CustomersController.CreateCustomer(CustomerManagement.Application.Customers.Commands.CreateCustomer.CreateCustomerCommand)">
+             <summary>
+             Creating a new customer
+             </summary>
+             <remarks>
+             Sample request:
+            
+                     POST api/v1/customer
+                     {
+                         "firstName": "Burak",
+                         "lastName": "Sag",
+                         "email": "iburaksag@gmail.com",
+                         "phone": "05395395339",
+                         "address": "Libadiye cd. Teknik sk. Uzunlar sit...",
+                         "city": "Istanbul",
+                         "country": "Turkiye",
+                         "userId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+                     }
+             </remarks>
+             <param name="request"></param>
+             <param name="cancellationToken"></param>
+             <returns>Returns response object which has newly created customer data</returns>
+             <response code="200">Returns response object which has newly created customer data successfully</response>
+             <response code="401">If customer is already exist or validation error</response>  
+        </member>
+        <member name="M:CustomerManagement.Api.Controllers.CustomersController.UpdateCustomer(System.Guid,CustomerManagement.Application.Customers.Commands.UpdateCustomer.UpdateCustomerCommand)">
+             <summary>
+             Updating existing customer with new data
+             </summary>
+             <remarks>
+             Sample request:
+            
+                     PUT api/v1/customer/{customerId}
+                     {
+                         "firstName": "Burak",
+                         "lastName": "Sag",
+                         "email": "iburaksag@gmail.com",
+                         "phone": "05395395339",
+                         "address": "Libadiye cd. Teknik sk. Uzunlar sit...",
+                         "city": "Istanbul",
+                         "country": "Turkiye",
+                         "userId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+                         "updatedDate": "2024-01-13T20:35:26.001Z"
+                     }
+             </remarks>
+             <param name="request"></param>
+             <param name="cancellationToken"></param>
+             <returns>Returns response object which has newly updated customer data</returns>
+             <response code="200">Returns response object which has newly updated customer data successfully</response>
+             <response code="400">If customer is not exist or validation error</response> 
+        </member>
+        <member name="M:CustomerManagement.Api.Controllers.CustomersController.DeleteCustomer(System.Guid)">
+            <summary>
+            Deleting specific customer by sending customer id
+            </summary>
+            <param name="request"></param>
+            <param name="cancellationToken"></param>
+            <returns>Returns a OkResult object that produces an empty response</returns>
+            <response code="200">Returns a OkResult object that produces an empty response successfully</response>
+            <response code="400">If customer is not exist</response> 
+        </member>
+        <member name="M:CustomerManagement.Api.Controllers.OrdersController.GetOrdersByCustomerId(System.Guid)">
+            <summary>
+            Getting order list of specific customer
+            </summary>
+            <param name="request"></param>
+            <param name="cancellationToken"></param>
+            <returns>Returns response object which has list of orders belongs to specific customer</returns>
+            <response code="200">Returns response object which has data of order list for specific customer</response>
+            <response code="404">If order list for specific customer returns null</response>  
+        </member>
+        <member name="M:CustomerManagement.Api.Controllers.OrdersController.GetAllOrders">
+            <summary>
+            Getting a list of orders
+            </summary>
+            <param name="request"></param>
+            <param name="cancellationToken"></param>
+            <returns>Returns response object which has list of order</returns>
+            <response code="200">Returns response object which has data of order list</response>
+            <response code="404">If order list returns null</response>  
+        </member>
+        <member name="M:CustomerManagement.Api.Controllers.UsersController.LoginUser(CustomerManagement.Application.Users.Commands.Login.LoginCommand,System.Threading.CancellationToken)">
+            <summary>
+            Login process for the user
+            </summary>
+            <remarks>
+            Sample request:
+            
+                POST api/v1/user/login
+                {        
+                  "email": "buraksag@gmail.com"
+                  "password": "123456"
+                }
+            </remarks>
+            <param name="request"></param>
+            <param name="cancellationToken"></param>
+            <returns>Returns authResult object which has user data</returns>
+            <response code="200">Returns authResult object which has user data successfully</response>
+            <response code="401">If invalid credentials or user can not be found</response>    
+        </member>
+        <member name="M:CustomerManagement.Api.Controllers.UsersController.RegisterUser(CustomerManagement.Application.Users.Commands.Register.RegisterCommand,System.Threading.CancellationToken)">
+            <summary>
+            Creating a new user
+            </summary>
+            <remarks>
+            Sample request:
+            
+                POST api/v1/user/register
+                {        
+                  "username": "buraksag"
+                  "email": "buraksag@gmail.com"
+                  "password": 123456
+                  "firstName": Burak
+                  "lastName": Sag
+                }
+            </remarks>
+            <param name="request"></param>
+            <param name="cancellationToken"></param>
+            <returns>Returns response object which has new created user data</returns>
+            <response code="200">Returns response object which has new created user data successfully</response>
+            <response code="400">If user is already exist or validation error</response>    
+        </member>
+        <member name="M:CustomerManagement.Api.Controllers.UsersController.GetUserByIdQuery(System.Guid)">
+            <summary>
+            Get user model by sending user id
+            </summary>
+            <param name="request"></param>
+            <param name="cancellationToken"></param>
+            <returns>Returns response object which has user data</returns>
+            <response code="200">Returns response object which has user data successfully</response>
+            <response code="404">If user is not found</response>    
+        </member>
+    </members>
+</doc>
