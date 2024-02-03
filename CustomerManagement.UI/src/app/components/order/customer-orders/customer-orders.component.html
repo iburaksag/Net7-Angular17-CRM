@@ -1,0 +1,47 @@
+<div class="row">
+  <div class="col-md-2">   
+    <ix-menu>
+      <ix-menu-avatar
+      top="{{ loggedUser.email }}" 
+      (logoutClick)="logoutClick()" 
+      image="https://ui-avatars.com/api/?name={{ loggedUser.email }}">
+      </ix-menu-avatar>
+      <ix-menu-item tab-icon="user-management-filled" (click)="goToCustomers()"> Customers </ix-menu-item>
+      <ix-menu-item tab-icon="star-list-filled" (click)="goToOrders()"> Orders </ix-menu-item>
+    </ix-menu>
+  </div>
+  <div class="col-md-7 mt-3">
+    <ix-content-header
+    (backButtonClick)="goToCustomers()" 
+    hasBackButton="true"
+    headerTitle="ORDER LIST"
+    headerSubtitle="Total number of orders {{ orderCount }}"
+    >
+    </ix-content-header>   
+    <ag-grid-angular
+      class="ag-theme-alpine-dark ag-theme-ix mt-3"
+      [rowData]="orders"
+      [columnDefs]="colDefs"
+      [domLayout]="'autoHeight'"
+    >
+    </ag-grid-angular>
+  </div>
+</div>
+
+<ng-template #customModal let-modal>
+      <div>
+        <ix-modal-header> Errors </ix-modal-header>
+        <ix-modal-content>
+            <ul>
+            <li *ngFor="let errorMessage of modal.data">
+                {{ errorMessage }}
+            </li>
+            </ul>
+        </ix-modal-content>
+        <ix-modal-footer>
+          <ix-button class="close-modal" (click)="modal.close('okay')">
+            OK
+          </ix-button>
+        </ix-modal-footer>
+      </div>
+</ng-template>

@@ -1,0 +1,32 @@
+<div class="row">
+  <div class="col-md-2">
+    <ix-menu>
+      <ix-menu-avatar
+      top="{{ loggedUser.email }}" 
+      (logoutClick)="logoutClick()" 
+      image="https://ui-avatars.com/api/?name={{ loggedUser.email }}">
+      </ix-menu-avatar>
+      <ix-menu-item tab-icon="user-management-filled" (click)="goToCustomers()"> Customers </ix-menu-item>
+      <ix-menu-item tab-icon="star-list-filled" (click)="goToOrders()"> Orders </ix-menu-item>
+    </ix-menu>
+  </div>
+  <div class="col-md-9 mt-3">
+    <ix-content-header
+    headerTitle="CUSTOMERS"
+    headerSubtitle="Number of customers {{ customerCount }}"
+    >
+    </ix-content-header>    
+    <ix-button class="m-1 mt-3" variant="primary" icon="add-user-filled" (click)="navigateToAddCustomer()">
+      Add Customer
+    </ix-button>
+    <ag-grid-angular
+      style="width: 100%;"
+      class="ag-theme-alpine-dark ag-theme-ix mt-2"
+      [rowData]="customers"
+      [columnDefs]="colDefs"
+      [domLayout]="'autoHeight'"
+      [defaultColDef]="{ width: 130 }"
+    >
+    </ag-grid-angular>
+  </div>
+</div>
